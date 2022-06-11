@@ -1,3 +1,3 @@
 # Git-Java
-Exercitando versionamento em jva.
+Exercitando versionamento em java.
 teste work
